@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /disney-13901-firebase-adminsdk-oaxtb-3993893b53.json
+/.env
 
 # testing
 /coverage
